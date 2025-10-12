@@ -34,7 +34,7 @@ Everything is written in plain **Java 21**, with heavy commenting for self-study
 
 ```text
 src/
- ├── beispieleAusarbeitungen/           # My elaborated Midterm + Übungs examples
+ ├── exampleTasks/           # My elaborated Midterm + Übungs examples
  │    ├── A1_RandomMonth.java
  │    ├── A2_MonthMapper.java
  │    ├── B1_CompareDoubles.java
@@ -68,7 +68,7 @@ src/
  │         ├── m3_IsEvenDemo.java
  │         └── m4_CoimposeMethods.java
  │
- ├── hausaufgaben/                      # Homework sets (Exercises 01 / 02)
+ ├── homeworks/                      # Homework sets (Exercises 01 / 02)
  │    ├── EX1/
  │    │    └── Exercises01.java
  │    └── EX2/

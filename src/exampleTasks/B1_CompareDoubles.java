@@ -1,4 +1,4 @@
-package beispieleAusarbeitungen;
+package exampleTasks;
 import java.util.Scanner;
 
 /**

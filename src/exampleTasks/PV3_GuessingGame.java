@@ -1,4 +1,4 @@
-package beispieleAusarbeitungen;
+package exampleTasks;
 /**
  * ÜBUNG 5 — Der Zahlenraten-Meister
  *

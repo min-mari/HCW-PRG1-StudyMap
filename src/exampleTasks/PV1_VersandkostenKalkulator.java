@@ -1,4 +1,4 @@
-package beispieleAusarbeitungen;
+package exampleTasks;
 /**
  * ÜBUNG 1 — Versandkosten-Kalkulator
  *
