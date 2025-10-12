@@ -1,4 +1,4 @@
-# 🧭 HCW-PRG1-Ausarbeitungen – Programmieren 1 (Hochschule Campus Wien | University of Applied Sciences Campus Wien)
+# 🧭 HCW-PRG1-StudyMap – Programmieren 1 (Hochschule Campus Wien | University of Applied Sciences Campus Wien)
 
 ✨ Author
 
