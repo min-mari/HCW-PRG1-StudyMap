@@ -36,7 +36,7 @@ public class StudyMap {
      * Wichtigste Scanner-Methoden:
      *  - nextInt(), nextDouble(), nextLine(), next() → verschiedene Typen lesen
      *  - .trim() entfernt Leerzeichen
-     *  - Scanner NICHT schließen in Midterm! (verhindert weitere Eingaben)
+     *  - Scanner NICHT schließen (verhindert weitere Eingaben)
      *
      * Beispiele:
      *
@@ -123,18 +123,30 @@ public class StudyMap {
     // ───────────────────────────────────────────────────────────────
 
     /*
+    /*
+    * 🔹 Methoden mit `void` → führen eine Aktion aus, deren Effekt „verbraucht“ ist.
+    *   Beispiel: Text ausgeben, Datei schreiben, etwas anzeigen.
+    *   → Das Ergebnis wird NICHT ans Programm zurückgegeben.
+    *
+    * 🔹 Methoden mit Rückgabewert (`int`, `double`, `boolean`, `String`, …) →
+    *   liefern einen Wert, der weiterverwendet oder gespeichert werden kann.
+    *   → Damit kann das Programm weiterrechnen, vergleichen, prüfen usw.
+    *
+    * 💡 Denkstütze:
+    *   - void = „mach was“
+    *   - return-Typ = „gib mir was“
      * Syntax:
      *  public static <returnType> <name>(<parameter>...)
      * {
      *      // code
      *      return <value>; // wenn returnType != void
-     *  }
+     * }
      *
      * Beispiel:
      *  public static int add(int a, int b)
      * {
      *      return a + b;
-     *  }
+     * }
      *
      * Aufruf:
      *  int sum = add(3, 4);
@@ -159,8 +171,7 @@ public class StudyMap {
      *
      * Zufallszahlen:
      *  Random rnd = new Random();
-     *  int month = rnd.nextInt(12) + 1; // 1..12
-     *
+     *  int month = rnd.nextInt(12) + 1; // 1..12 +1 notwendig, da sonst von 0 bis 11 gezählt wird    *
      * Prozent & Durchschnitt:
      *  double avg = sum / count;
      *

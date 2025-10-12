@@ -1,6 +1,6 @@
 package skeletons;
 import java.util.*;
-public class CherryPicksGeneral
+public class              CherryPicksGeneral
 {
 
     // Shared Scanner for any skeleton that needs console input.
@@ -207,7 +207,7 @@ public class CherryPicksGeneral
     }
 
     // ========================
-    // 12) Sum of digits (Σdigits)
+    // 12) Sum of digits
     // ========================
     public static int sumOfDigits(int n)
     {
@@ -311,7 +311,7 @@ public class CherryPicksGeneral
     public static String switchMenu(int choice)
     {
         switch (choice) {
-            case 1:
+            case 1: //in case value is 1, 2, 3, 4,...actual number
                 return "Option 1";
             case 2:
                 return "Option 2";
