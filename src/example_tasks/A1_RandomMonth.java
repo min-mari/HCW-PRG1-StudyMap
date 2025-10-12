@@ -1,4 +1,4 @@
-package exampleTasks;
+package example_tasks;
 import java.util.Random;
 
 /**

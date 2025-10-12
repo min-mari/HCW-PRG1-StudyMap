@@ -1,4 +1,4 @@
-package exampleTasks;
+package example_tasks;
 
 /**
  * ÜBUNG 2 — Mustergenerator (Rechteckmuster aus abwechselnden Zeichen)
