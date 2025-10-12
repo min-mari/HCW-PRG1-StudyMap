@@ -34,7 +34,7 @@ Everything is written in plain **Java 21**, with heavy commenting for self-study
 
 ```text
 src/
- ├── exampleTasks/           # My elaborated Midterm + Übungs examples
+ ├── example_tasks/           # My elaborated Midterm + Übungs examples
  │    ├── A1_RandomMonth.java
  │    ├── A2_MonthMapper.java
  │    ├── B1_CompareDoubles.java
@@ -69,9 +69,9 @@ src/
  │         └── m4_CoimposeMethods.java
  │
  ├── homeworks/                      # Homework sets (Exercises 01 / 02)
- │    ├── EX1/
+ │    ├── hm1/
  │    │    └── Exercises01.java
- │    └── EX2/
+ │    └── hm2/
  │         └── Exercises02.java
  │
  └── skeletons/                         # Utility snippets and reusable blueprints
@@ -98,7 +98,7 @@ src/
 
 ## 🧷 Requirements
 
-- Java 17 or newer  
+- Java 17 or newer, 21 Corretto preferred
 - IntelliJ IDEA (Community Edition is fine)  
 - JDK configured under *Project Structure → SDK*
 
