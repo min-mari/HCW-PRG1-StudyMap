@@ -16,7 +16,7 @@ package exampleTasks;
  */
 
 import java.util.Scanner;
-//import.java.unitl.Random; //if we do a Method for the random num
+//import.java.until.Random; //if we do a Method for the random num
 public class PV3_GuessingGame
 {
     public static void guessingGame(int numberRange, int attempts)
