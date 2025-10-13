@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest commit per 13.10.25">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest commit, 13.10.25">
+      <change beforePath="$PROJECT_DIR$/src/skeletons/QuickReferenceGuide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/QuickReferenceGuide.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760384651062</updated>
       <workItem from="1760384652766" duration="1766000" />
-      <workItem from="1760387868165" duration="1255000" />
+      <workItem from="1760387868165" duration="1902000" />
     </task>
     <task id="LOCAL-00001" summary="Latest commit per 13.10.25">
       <option name="closed" value="true" />
@@ -83,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760386115338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest commit, 13.10.25">
+      <option name="closed" value="true" />
+      <created>1760389415301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760389415301</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Latest commit per 13.10.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Latest commit per 13.10.25" />
+    <MESSAGE value="Latest commit, 13.10.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest commit, 13.10.25" />
   </component>
 </project>

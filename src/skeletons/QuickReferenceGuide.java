@@ -4,9 +4,7 @@ public class QuickReferenceGuide
 {
 /*
 ==============================================================
-                   STUDY MAP — GROUPED & SUB-GROUPED
-==============================================================
-
+============= STUDY MAP — GROUPED & SUB-GROUPED =============
 
 # Arrays & Collections (arrays, lists, search/sort)
     (General):
@@ -43,8 +41,23 @@ public class QuickReferenceGuide
         CherryPicksGeneral
         CherryPicsAbridged
         D2_IncomeStatistics
-        Exercises01
-        Exercises02
+            Exercises01_addTwoNumbers
+            Exercises01_compareTwoNumbers
+            Exercises01_getCommissionRate
+            Exercises01_helloRobot
+            Exercises01_leapyear
+            Exercises01_ratingSalesPerson
+            Exercises01_sayHelloWorld
+            Exercises01_sumOfLiterals
+            Exercises01_swapTwoNumbers
+            Exercises01_transposedNumbers
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
         PV3_GuessingGame
         d1_MinOfThree
         l3_PasswordRetry
@@ -52,8 +65,13 @@ public class QuickReferenceGuide
     Min/Max/Stats, Sorting:
         StudyMap
     Searching:
-        Exercises03
-
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
 
 # Date/Time & Mapping (months, mapping tables, enums)
     Lookups/Tables, Month Mapping, switch/enums:
@@ -61,8 +79,13 @@ public class QuickReferenceGuide
         StudyMap
     Month Mapping:
         A1_RandomMonth
-        Exercises03
-
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
 
 # Formatting & Output (printf, String.format)
     printf:
@@ -75,10 +98,15 @@ public class QuickReferenceGuide
     String.format, Tables/Alignment:
         CherryPicksAndTricks
         CherryPicksGeneral
-        Exercises02
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
     Tables/Alignment, printf:
         A2_CheatSheet
-
 
 # Input Validation & Parsing (Scanner, args, parsing)
     Scanner/Input:
@@ -91,9 +119,30 @@ public class QuickReferenceGuide
         CherryPicsAbridged
         D2_IncomeStatistics
         D2_SumUp
-        Exercises01
-        Exercises02
-        Exercises03
+            Exercises01_addTwoNumbers
+            Exercises01_compareTwoNumbers
+            Exercises01_getCommissionRate
+            Exercises01_helloRobot
+            Exercises01_leapyear
+            Exercises01_ratingSalesPerson
+            Exercises01_sayHelloWorld
+            Exercises01_sumOfLiterals
+            Exercises01_swapTwoNumbers
+            Exercises01_transposedNumbers
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
         PV3_GuessingGame
         StudyMap
         d1_MinOfThree
@@ -117,7 +166,6 @@ public class QuickReferenceGuide
         RND1_CompareDoubles
         RND2_MagicSquare
 
-
 # Loops & Control Flow (if/else/switch; for/while/do)
     for-loops:
         l2_FactorialCalculator
@@ -135,7 +183,13 @@ public class QuickReferenceGuide
     for-loops, if/else, switch, while/do-while:
         StudyMap
     for-loops, if/else, while/do-while:
-        Exercises03
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
     if/else:
         A1_ZipCodeChecker
         C2_PowerOfTen
@@ -148,7 +202,16 @@ public class QuickReferenceGuide
         d6_EvenOdd_Modulo
         m4_CoimposeMethods
     if/else, switch:
-        Exercises01
+            Exercises01_addTwoNumbers
+            Exercises01_compareTwoNumbers
+            Exercises01_getCommissionRate
+            Exercises01_helloRobot
+            Exercises01_leapyear
+            Exercises01_ratingSalesPerson
+            Exercises01_sayHelloWorld
+            Exercises01_sumOfLiterals
+            Exercises01_swapTwoNumbers
+            Exercises01_transposedNumbers
         PV1_VersandkostenKalkulator
         d4_TinyCalculatorSwitch
     if/else, while/do-while:
@@ -165,31 +228,56 @@ public class QuickReferenceGuide
     Nested loops, for-loops, if/else, while/do-while:
         CherryPicksAndTricks
         CherryPicsAbridged
-        Exercises02
-
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
 
 # Numbers & Iterative Algorithms (sum, factorial, primes)
     Digit Ops/Quersumme:
         A2_MonthMapper
-        Exercises02
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
         l5_CountDigits
     Digit Ops/Quersumme, Factorial/Fibonacci, Primes/Divisors, Summations/Products:
         CherryPicksAndTricks
         CherryPicksGeneral
     Digit Ops/Quersumme, Summations/Products:
         CherryPicsAbridged
-        Exercises03
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
         StudyMap
     Factorial/Fibonacci:
         l2_FactorialCalculator
     Number Reversal, Summations/Products:
-        Exercises01
+            Exercises01_addTwoNumbers
+            Exercises01_compareTwoNumbers
+            Exercises01_getCommissionRate
+            Exercises01_helloRobot
+            Exercises01_leapyear
+            Exercises01_ratingSalesPerson
+            Exercises01_sayHelloWorld
+            Exercises01_sumOfLiterals
+            Exercises01_swapTwoNumbers
+            Exercises01_transposedNumbers
     Summations/Products:
         D2_IncomeStatistics
         D2_SumUp
         l6_SumUntilMinusOne
         m2_SumOfNumbers
-
 
 # Pattern Generators (Muster/Pyramids/Triangles/Diamonds)
     (General):
@@ -201,19 +289,30 @@ public class QuickReferenceGuide
     (Nested Loops Pattern), Checkerboard/Chess, Triangles:
         CherryPicksAndTricks
     (Nested Loops Pattern), Diamonds/Rhombus, Rectangles/Squares, Triangles:
-        Exercises02
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
     (Nested Loops Pattern), Rectangles/Squares:
         RND2_MagicSquare
     (Nested Loops Pattern), Triangles:
         CherryPicsAbridged
-
 
 # Randomness & Math (Random, Math.*)
     Random/Dice/Coin:
         A1_RandomMonth
         A2_MonthMapper
     Random/Dice/Coin, Rounding/Math:
-        Exercises03
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
         PV3_GuessingGame
         StudyMap
     Rounding/Math:
@@ -221,9 +320,14 @@ public class QuickReferenceGuide
         CherryPicksAndTricks
         CherryPicksGeneral
         CherryPicsAbridged
-        Exercises02
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
         RND1_CompareDoubles
-
 
 # Strings & Text Processing (split, substring, replace)
     (General):
@@ -234,7 +338,16 @@ public class QuickReferenceGuide
         C2_PowerOfTen
         D1_LengthAndUnitConverter
         D2_SumUp
-        Exercises01
+            Exercises01_addTwoNumbers
+            Exercises01_compareTwoNumbers
+            Exercises01_getCommissionRate
+            Exercises01_helloRobot
+            Exercises01_leapyear
+            Exercises01_ratingSalesPerson
+            Exercises01_sayHelloWorld
+            Exercises01_sumOfLiterals
+            Exercises01_swapTwoNumbers
+            Exercises01_transposedNumbers
         PV1_VersandkostenKalkulator
         PV3_GuessingGame
         d1_MinOfThree
@@ -258,8 +371,20 @@ public class QuickReferenceGuide
         d4_TinyCalculatorSwitch
     Char Ops, Counting/Stats:
         CherryPicksAndTricks
-        Exercises02
-        Exercises03
+            Exercises02_happyNumbers
+            Exercises02_largestNumber
+            Exercises02_marks
+            Exercises02_printPyramid
+            Exercises02_printRhombus
+            Exercises02_stairs
+            Exercises02_sumOfSquaresOfDigits
+            Exercises03_camelCase
+            Exercises03_checkDigit
+            Exercises03_guessingGame
+            Exercises03_lcg
+            Exercises03_oneMonthCalendar
+            Exercises03_randomNumberBetweenOneAndHundred
+            Exercises03_swapArrays
         StudyMap
     Counting/Stats:
         A2_CheatSheet
@@ -273,7 +398,6 @@ public class QuickReferenceGuide
     Replace/Mutate:
         RND1_CompareDoubles
 
-
-==============================================================
+=============================================================
 */
 }

@@ -89,7 +89,8 @@ src/
       ├── CherryPicksAndTricks.java
       ├── CherryPicksGeneral.java
       ├── CherryPicksAbridged.java
-      └── StudyMap.java
+      ├── QuickReferenceGuide.java
+      └── StudyMap.java      
 
 ```
 ## 💡 Topics Covered
