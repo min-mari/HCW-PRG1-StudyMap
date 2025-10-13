@@ -48,7 +48,9 @@ src/
  │    ├── D2_SumUp.java
  │    ├── PV1_VersandkostenKalkulator.java
  │    ├── PV2_Mustergenerator.java
- │    └── PV3_GuessingGame.java
+ │    ├── PV3_GuessingGame.java
+ │    ├── RND1_CompareDoubles.java
+ │    └── RND2_MagicSquare.java
  │
  ├── datatypes_operators_controlstructures/   # Material rewritten from official slides
  │    ├── d1_MinOfThree.java
