@@ -12,10 +12,10 @@ public class RND5_FloatCompareExample
         System.out.println("Direkter Vergleich (==): " + (a == b));
 
         //Rundung eps - verhindert rundungsfehler
-        final double eps = 1e-9;
+        final double eps = 1e-9; // Epsilon: kleiner Toleranzwert für float & double-Vergleiche
         boolean equalWithEps = Math.abs(a - b) < eps;
 
-        System.out.println("Vergleich mit eps: " + equalWithEps);
+        System.out.println("Vergleich: " + equalWithEps);
     }
 
 }
