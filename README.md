@@ -50,7 +50,10 @@ src/
  │    ├── PV2_Mustergenerator.java
  │    ├── PV3_GuessingGame.java
  │    ├── RND1_CompareDoubles.java
- │    └── RND2_MagicSquare.java
+ │    ├── RND2_MagicSquare.java
+ │    ├── RND3_Encrypt.java
+ │    ├── RND4_DiscountCalculator.java
+ │    └── RND5_FloatCompareExample.java
  │
  ├── datatypes_operators_controlstructures/   # Material rewritten from official slides
  │    ├── d1_MinOfThree.java
@@ -89,9 +92,8 @@ src/
       ├── CherryPicksAndTricks.java
       ├── CherryPicksGeneral.java
       ├── CherryPicksAbridged.java
-      ├── QuickReferenceGuide.java
-      └── StudyMap.java      
-
+      ├── QuickReferenceGuide
+      └── StudyMap.java
 ```
 ## 💡 Topics Covered
 
