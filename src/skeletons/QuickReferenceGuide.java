@@ -400,4 +400,69 @@ public class QuickReferenceGuide
 
 =============================================================
 */
+
+
+    /*
+========= HOMEWORK PACKAGES — TASKS BY METHOD (Exercises01–03) =========
+
+# (General)
+    Exercises01_sayHelloWorld
+    Exercises01_helloRobot
+
+# Arrays & Collections
+    Exercises01_transposedNumbers
+    Exercises03_swapArrays
+
+# Formatting & Output
+    Exercises01_ratingSalesPerson
+    Exercises01_getCommissionRate
+    Exercises01_leapyear
+
+# Input Validation & Parsing
+    Exercises01_swapTwoNumbers
+    Exercises01_compareTwoNumbers
+    Exercises01_ratingSalesPerson
+    Exercises01_getCommissionRate
+    Exercises01_leapyear
+    Exercises03_guessingGame
+    Exercises03_randomNumberBetweenOneAndHundred
+    Exercises03_checkDigit
+
+# Loops & Control Flow
+    Exercises01_compareTwoNumbers
+    Exercises01_ratingSalesPerson
+    Exercises01_getCommissionRate
+    Exercises01_leapyear
+    Exercises02_stairs
+    Exercises02_marks
+    Exercises02_happyNumbers
+    Exercises03_oneMonthCalendar
+    Exercises03_guessingGame
+
+# Numbers & Iterative Algorithms
+    Exercises01_sumOfLiterals
+    Exercises01_addTwoNumbers
+    Exercises02_happyNumbers
+    Exercises02_sumOfSquaresOfDigits
+    Exercises03_checkDigit
+
+# Pattern Generators
+    Exercises02_printPyramid
+    Exercises02_printRhombus
+    Exercises02_stairs
+
+# Randomness & Math
+    Exercises03_lcg
+    Exercises03_guessingGame
+    Exercises03_randomNumberBetweenOneAndHundred
+
+# Strings & Text Processing
+    Exercises03_camelCase
+    Exercises01_transposedNumbers
+
+# Date/Time & Mapping
+    Exercises03_oneMonthCalendar
+
+==========================================================================
+*/
 }
