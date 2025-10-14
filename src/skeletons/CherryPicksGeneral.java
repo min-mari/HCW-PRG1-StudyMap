@@ -1,7 +1,6 @@
 package skeletons;
 import java.util.*;
-public class              CherryPicksGeneral
-{
+public class              CherryPicksGeneral {
 
     // Shared Scanner for any skeleton that needs console input.
     // (Do not close; it can break other reads or test runners.)
@@ -10,8 +9,7 @@ public class              CherryPicksGeneral
     // =========================
     // 0) Setup / main playground
     // =========================
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         // Uncomment what you want to try locally:
 
         // System.out.println(ifElseValidate(5));
@@ -51,18 +49,12 @@ public class              CherryPicksGeneral
     // ======================================
     // 1) If / Else – validation & branching
     // ======================================
-    public static String ifElseValidate(int x)
-    {
-        if (x < 0)
-        {
+    public static String ifElseValidate(int x) {
+        if (x < 0) {
             return "Invalid value.";
-        }
-        else if (x == 0)
-        {
+        } else if (x == 0) {
             return "Zero.";
-        }
-        else
-        {
+        } else {
             return "Positive.";
         }
     }
@@ -71,16 +63,13 @@ public class              CherryPicksGeneral
     // 2) While – read numbers until 0 (Ø/Σ)
     // returns a summary string; adapt as needed
     // =====================================
-    public static String readUntilZero()
-    {
+    public static String readUntilZero() {
         int count = 0;
         long sum = 0;
 
         int v = SC.nextInt();
-        while (v != 0)
-        {
-            if (v < 0)
-            {
+        while (v != 0) {
+            if (v < 0) {
                 // skip negatives (example behavior)
                 v = SC.nextInt();
                 continue;
@@ -98,10 +87,8 @@ public class              CherryPicksGeneral
     // =================================
     // 3) For – fixed number of repeats
     // =================================
-    public static void forRepeat(int n)
-    {
-        for (int i = 0; i < n; i++)
-        {
+    public static void forRepeat(int n) {
+        for (int i = 0; i < n; i++) {
             System.out.println("i = " + i);
         }
     }
@@ -109,11 +96,9 @@ public class              CherryPicksGeneral
     // ==========================================
     // 4) Do-While – run at least once (demo)
     // ==========================================
-    public static void doWhileExample()
-    {
+    public static void doWhileExample() {
         int x;
-        do
-        {
+        do {
             x = SC.nextInt();
             System.out.println("You typed: " + x);
         } while (x != 0);
@@ -122,10 +107,8 @@ public class              CherryPicksGeneral
     // ==================================================
     // 5) break / continue inside loops (demo structure)
     // ==================================================
-    public static void loopWithBreakContinue(int n)
-    {
-        for (int i = 0; i < n; i++)
-        {
+    public static void loopWithBreakContinue(int n) {
+        for (int i = 0; i < n; i++) {
             if (i == 2) continue;     // skip i==2
             if (i == 7) break;        // stop loop at i==7
             System.out.println("i = " + i);
@@ -135,8 +118,7 @@ public class              CherryPicksGeneral
     // ==========================================
     // 6) return – exit whole method early
     // ==========================================
-    public static String earlyReturnProcess(int x)
-    {
+    public static String earlyReturnProcess(int x) {
         if (x < 0) return "Invalid."; // ends the method immediately
         // more work here...
         return "OK";
@@ -145,10 +127,8 @@ public class              CherryPicksGeneral
     // ======================
     // 7) Rectangle (rows×cols)
     // ======================
-    public static void rect(int rows, int cols, char ch)
-    {
-        for (int r = 0; r < rows; r++)
-        {
+    public static void rect(int rows, int cols, char ch) {
+        for (int r = 0; r < rows; r++) {
             for (int c = 0; c < cols; c++) System.out.print(ch);
             System.out.println();
         }
@@ -157,10 +137,8 @@ public class              CherryPicksGeneral
     // ==============================
     // 8) Left-aligned ascending tri
     // ==============================
-    public static void triangleUp(int h, char ch)
-    {
-        for (int r = 1; r <= h; r++)
-        {
+    public static void triangleUp(int h, char ch) {
+        for (int r = 1; r <= h; r++) {
             for (int c = 1; c <= r; c++) System.out.print(ch);
             System.out.println();
         }
@@ -169,10 +147,8 @@ public class              CherryPicksGeneral
     // ================================
     // 9) Inverted (descending) triangle
     // ================================
-    public static void triangleDown(int h, char ch)
-    {
-        for (int r = h; r >= 1; r--)
-        {
+    public static void triangleDown(int h, char ch) {
+        for (int r = h; r >= 1; r--) {
             for (int c = 1; c <= r; c++) System.out.print(ch);
             System.out.println();
         }
@@ -181,10 +157,8 @@ public class              CherryPicksGeneral
     // ==========================================
     // 10) Symmetric pyramid (with leading spaces)
     // ==========================================
-    public static void pyramid(int h, char ch)
-    {
-        for (int r = 0; r < h; r++)
-        {
+    public static void pyramid(int h, char ch) {
+        for (int r = 0; r < h; r++) {
             for (int s = 0; s < h - r - 1; s++) System.out.print(' ');
             for (int k = 0; k < 2 * r + 1; k++) System.out.print(ch);
             System.out.println();
@@ -194,12 +168,9 @@ public class              CherryPicksGeneral
     // ===================================
     // 11) Chessboard / alternating chars
     // ===================================
-    public static void chessboard(int rows, int cols, char a, char b)
-    {
-        for (int r = 0; r < rows; r++)
-        {
-            for (int c = 0; c < cols; c++)
-            {
+    public static void chessboard(int rows, int cols, char a, char b) {
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
                 System.out.print(((r + c) % 2 == 0) ? a : b);
             }
             System.out.println();
@@ -209,8 +180,7 @@ public class              CherryPicksGeneral
     // ========================
     // 12) Sum of digits
     // ========================
-    public static int sumOfDigits(int n)
-    {
+    public static int sumOfDigits(int n) {
         int x = Math.abs(n),
                 sum = 0;
         while (x > 0) {
@@ -223,8 +193,7 @@ public class              CherryPicksGeneral
     // ===============
     // 13) Factorial n!
     // ===============
-    public static long factorial(int n)
-    {
+    public static long factorial(int n) {
         long f = 1L;
         for (int i = 1; i <= n; i++) f *= i;
         return f;
@@ -233,8 +202,7 @@ public class              CherryPicksGeneral
     // ==========================================
     // 14) Integer power (no Math.pow, exp>=0)
     // ==========================================
-    public static long powInt(int base, int exp)
-    {
+    public static long powInt(int base, int exp) {
         long p = 1L;
         for (int i = 0; i < exp; i++) p *= base;
         return p;
@@ -243,11 +211,9 @@ public class              CherryPicksGeneral
     // ======================
     // 15) Simple prime check
     // ======================
-    public static boolean isPrime(int n)
-    {
+    public static boolean isPrime(int n) {
         if (n < 2) return false;
-        for (int d = 2; d * d <= n; d++)
-        {
+        for (int d = 2; d * d <= n; d++) {
             if (n % d == 0) return false;
         }
         return true;
@@ -256,8 +222,7 @@ public class              CherryPicksGeneral
     // ==================================================
     // 16) Convert mm → "m: <m>, cm: <cm>, mm: <mmRest>"
     // ==================================================
-    public static String mmToUnits(int mm)
-    {
+    public static String mmToUnits(int mm) {
         if (mm < 0) return "Invalid value.";
         int m = mm / 1000;
         int rest = mm % 1000;
@@ -269,8 +234,7 @@ public class              CherryPicksGeneral
     // ================================
     // 17) Seconds → "hh:mm:ss" string
     // ================================
-    public static String secondsToHMS(int sec)
-    {
+    public static String secondsToHMS(int sec) {
         if (sec < 0) return "Invalid value.";
         int h = sec / 3600;
         int r1 = sec % 3600;
@@ -282,24 +246,21 @@ public class              CherryPicksGeneral
     // =========================
     // 18) Method with return
     // =========================
-    public static int add(int a, int b)
-    {
+    public static int add(int a, int b) {
         return a + b;
     }
 
     // ============================
     // 19) Void method (just print)
     // ============================
-    public static void printLine(int n, char ch)
-    {
+    public static void printLine(int n, char ch) {
         for (int i = 0; i < n; i++) System.out.print(ch);
     }
 
     // ==================================================
     // 20) Guard clause pattern (early return formatting)
     // ==================================================
-    public static String formatMm(int mm)
-    {
+    public static String formatMm(int mm) {
         if (mm < 0) return "Invalid value.";
         int m = mm / 1000, rest = mm % 1000, cm = rest / 10, mmR = rest % 10;
         return "m: " + m + ", cm: " + cm + ", mm: " + mmR;
@@ -308,8 +269,7 @@ public class              CherryPicksGeneral
     // ==========================
     // 21) Simple switch "menu"
     // ==========================
-    public static String switchMenu(int choice)
-    {
+    public static String switchMenu(int choice) {
         switch (choice) {
             case 1: //in case value is 1, 2, 3, 4,...actual number
                 return "Option 1";
@@ -323,16 +283,14 @@ public class              CherryPicksGeneral
     // ==========================================
     // 22) printf 2 decimal places (returns text)
     // ==========================================
-    public static String printf2(double val)
-    {
+    public static String printf2(double val) {
         return String.format("%.2f", val);
     }
 
     // ===================================================
     // 23) Validate & skip (continue-like pattern inline)
     // ===================================================
-    public static String validateAndProcess(int x)
-    {
+    public static String validateAndProcess(int x) {
         if (x < 0) return "Invalid."; // mimic continue by not processing
         // do work...
         return "Processed " + x;
@@ -341,8 +299,7 @@ public class              CherryPicksGeneral
     // ======================================================
     // 24) Find first element > 100; return index or -1
     // ======================================================
-    public static int findFirstGreaterThan100(int[] arr)
-    {
+    public static int findFirstGreaterThan100(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > 100) return i;  // break + return pattern
         }
@@ -353,8 +310,7 @@ public class              CherryPicksGeneral
     // 25) Count even/odd numbers in an int array
     // returns [even, odd]
     // ==============================================
-    public static int[] countEvenOdd(int[] arr)
-    {
+    public static int[] countEvenOdd(int[] arr) {
         int even = 0, odd = 0;
         for (int x : arr) {
             if (x % 2 == 0) even++;
@@ -363,4 +319,3 @@ public class              CherryPicksGeneral
         return new int[]{even, odd};
     }
 }
-

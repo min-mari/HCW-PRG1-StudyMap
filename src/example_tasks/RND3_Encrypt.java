@@ -1,6 +1,5 @@
 package example_tasks;
 import java.util.*;
-
 /*
 Aufgabe RND3 – Caesar-Verschlüsselung
 

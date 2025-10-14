@@ -70,7 +70,7 @@ public class StudyMap {
      *  }
      *
      * switch:
-     *  switch (grade)
+     * switch (grade)
      * {
      *      case 'A': System.out.println("Excellent"); break;
      *      case 'B': System.out.println("Good"); break;
