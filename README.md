@@ -80,32 +80,44 @@ src/
  │    ├── m3_IsEvenDemo.java
  │    └── m4_CoimposeMethods.java
  │
- ├── homeworks/                             # Homework sets (Exercises 01 / 02 / 03)
+ ├── homeworks/                             # Homework sets (Exercises 01 / 02 / 03 / 04 / 05)
  │    ├── hm1/
  │    │    └── Exercises01.java
  │    ├── hm2/
  │    │    └── Exercises02.java
- │    └── hm3/
- │         └── Exercises03.java
+ │    ├── hm3/
+ │    │    └── Exercises03.java
+ │    ├── hm4/
+ │    │    ├── Task4.java
+ │    │    ├── App.java
+ │    │    ├── Car.java
+ │    │    ├── ParkingSpot.java
+ │    │    └── ParkingGarage.java
+ │    └── hm5/
+ │         ├── Task5.java
+ │         ├── Player.java
+ │         └── TicTacToe.java
  │
  └── skeletons/                             # Utility snippets and reusable blueprints
       ├── CherryPicksAndTricks.java
       ├── CherryPicksGeneral.java
       ├── CherryPicksAbridged.java
+      ├── OOP1Skel.java
       ├── QuickReferenceGuide
       └── StudyMap.java
 ```
 ## 💡 Topics Covered
 
-| Category | Content |
-|-----------|----------|
-| 🏁 **Intro** | Structure of a Java program, `main()`, console I/O |
-| 🔢 **Datatypes & Operators** | int, double, boolean, arithmetic, type casting |
-| ⚙️ **Control Structures** | `if`, `else`, `switch`, logical operators |
-| 🔁 **Loops** | `for`, `while`, `do-while`, nested loops |
-| 🧮 **Methods** | parameters, `void` vs return values, modular design |
-| 🧠 **Practice Tasks** | pattern printing, mini-calculators, guessing games |
-| 🗺️ **StudyMap** | condensed cheat-sheet with sources & short examples |
+| Category                     | Content                                             |
+|------------------------------|-----------------------------------------------------|
+| 🏁 **Intro**                 | Structure of a Java program, `main()`, console I/O  |
+| 🔢 **Datatypes & Operators** | int, double, boolean, arithmetic, type casting      |
+| ⚙️ **Control Structures**    | `if`, `else`, `switch`, logical operators           |
+| 🔁 **Loops**                 | `for`, `while`, `do-while`, nested loops            |
+| 🧮 **Methods**               | parameters, `void` vs return values, modular design |
+| 🧮 **OOP**                   | Classes, Constructors etc                           |
+| 🧠 **Practice Tasks**        | pattern printing, mini-calculators, guessing games  |
+| 🗺️ **StudyMap**             | condensed cheat-sheet with sources & short examples |
 
 ---
 
