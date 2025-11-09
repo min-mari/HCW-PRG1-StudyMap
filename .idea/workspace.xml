@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c92fb2-642d-4372-80d1-b513f7a64fef" name="Changes" comment="Addition of Tasks 4,5 plus a new Skeleton for OOP 1">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest readme update commit, 14.10.25; 19:48">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/A1_RandomMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/A1_RandomMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/A1_ZipCodeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/A1_ZipCodeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/A2_CheatSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/A2_CheatSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/A2_MonthMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/A2_MonthMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/B1_CompareDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/B1_CompareDoubles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/C1_CashRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/C1_CashRegister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/C2_PowerOfTen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/C2_PowerOfTen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/D1_LengthAndUnitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/D1_LengthAndUnitConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/D1_RotateLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/D1_RotateLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/D2_IncomeStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/D2_IncomeStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/D2_SumUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/D2_SumUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/PV1_VersandkostenKalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/PV1_VersandkostenKalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/PV2_Mustergenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/PV2_Mustergenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/PV3_GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/PV3_GuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/RND1_CompareDoubles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/RND1_CompareDoubles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/RND2_MagicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/RND2_MagicSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/RND3_Encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/RND3_Encrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/RND4_DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/RND4_DiscountCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example_tasks/RND5_FloatCompareExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example_tasks/Midterm1/RND5_FloatCompareExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +31,23 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/min-mari/HCW-PRG1-StudyMap.git&quot;,
-    &quot;accountId&quot;: &quot;6c87212f-a3fc-4091-b970-8b408868d958&quot;
+    &quot;accountId&quot;: &quot;74d84117-b769-49e3-9413-5cbaa432fe1b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="34H5N1K10yTzGXjRvb0Atyewz6U" />
+  <component name="ProjectId" id="341cj0LfI1x1V9TuJhvbARdu1PH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.StudentApp.executor": "Run",
+    "Application.RND1_CompareDoubles.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,61 +58,94 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="folien.oop2.students.StudentApp" />
-      <module name="HCW-PRG1-StudyMap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="folien.oop2.students.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.StudentApp" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78c92fb2-642d-4372-80d1-b513f7a64fef" name="Changes" comment="" />
-      <created>1760857641629</created>
+      <changelist id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="" />
+      <created>1760384651062</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760857641629</updated>
-      <workItem from="1760857661583" duration="33000" />
-      <workItem from="1762684763755" duration="3185000" />
-      <workItem from="1762697580033" duration="13488000" />
+      <updated>1760384651062</updated>
+      <workItem from="1760384652766" duration="1766000" />
+      <workItem from="1760387868165" duration="14392000" />
+      <workItem from="1762716083732" duration="835000" />
     </task>
-    <task id="LOCAL-00001" summary="Addition of Tasks 4,5 plus a new Skeleton for OOP 1">
+    <task id="LOCAL-00001" summary="Latest commit per 13.10.25">
       <option name="closed" value="true" />
-      <created>1762686765995</created>
+      <created>1760386115338</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1762686765995</updated>
+      <updated>1760386115338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest commit, 13.10.25">
+      <option name="closed" value="true" />
+      <created>1760389415301</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760389415301</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Latest commit, 13.10.25; 23:12">
+      <option name="closed" value="true" />
+      <created>1760389969884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760389969884</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Latest commit, 14.10.25;">
+      <option name="closed" value="true" />
+      <created>1760448347224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760448347224</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Latest commit, 14.10.25;">
+      <option name="closed" value="true" />
+      <created>1760451356220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760451356220</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Latest commit, 14.10.25; 19:45">
+      <option name="closed" value="true" />
+      <created>1760463962312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760463962312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Latest readme update commit, 14.10.25; 19:48">
+      <option name="closed" value="true" />
+      <created>1760464132675</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760464132675</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Addition of Tasks 4,5 plus a new Skeleton for OOP 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addition of Tasks 4,5 plus a new Skeleton for OOP 1" />
+    <MESSAGE value="Latest commit per 13.10.25" />
+    <MESSAGE value="Latest commit, 13.10.25" />
+    <MESSAGE value="Latest commit, 13.10.25; 23:12" />
+    <MESSAGE value="Latest commit, 14.10.25;" />
+    <MESSAGE value="Latest commit, 14.10.25; 19:45" />
+    <MESSAGE value="Latest readme update commit, 14.10.25; 19:48" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest readme update commit, 14.10.25; 19:48" />
   </component>
 </project>

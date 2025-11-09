@@ -1,0 +1,60 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7ab20773-28e2-42c9-9f0b-69afedbeb663\" name=\"Changes\" comment=\"Latest readme update commit, 14.10.25; 19:48\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;min-mari&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/min-mari/HCW-PRG1-StudyMap.git&quot;,\n    &quot;accountId&quot;: &quot;74d84117-b769-49e3-9413-5cbaa432fe1b&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8\n}</component>\n  <component name=\"ProjectId\" id=\"341cj0LfI1x1V9TuJhvbARdu1PH\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Application.RND1_CompareDoubles.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7ab20773-28e2-42c9-9f0b-69afedbeb663\" name=\"Changes\" comment=\"\" />\n      <created>1760384651062</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1760384651062</updated>\n      <workItem from=\"1760384652766\" duration=\"1766000\" />\n      <workItem from=\"1760387868165\" duration=\"14392000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Latest commit per 13.10.25\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760386115338</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760386115338</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Latest commit, 13.10.25\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760389415301</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760389415301</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Latest commit, 13.10.25; 23:12\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760389969884</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760389969884</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Latest commit, 14.10.25;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760448347224</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760448347224</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Latest commit, 14.10.25;\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760451356220</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760451356220</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Latest commit, 14.10.25; 19:45\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760463962312</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760463962312</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Latest readme update commit, 14.10.25; 19:48\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1760464132675</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1760464132675</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Latest commit per 13.10.25\" />\n    <MESSAGE value=\"Latest commit, 13.10.25\" />\n    <MESSAGE value=\"Latest commit, 13.10.25; 23:12\" />\n    <MESSAGE value=\"Latest commit, 14.10.25;\" />\n    <MESSAGE value=\"Latest commit, 14.10.25; 19:45\" />\n    <MESSAGE value=\"Latest readme update commit, 14.10.25; 19:48\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Latest readme update commit, 14.10.25; 19:48\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fd3ba0af0dca1c147887af731ebf60b4baa90859)
++++ b/.idea/workspace.xml	(date 1761319599523)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest readme update commit, 14.10.25; 19:48" />
++    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest update commit, 14.10.25; 19:57">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -72,6 +74,11 @@
+       <updated>1760384651062</updated>
+       <workItem from="1760384652766" duration="1766000" />
+       <workItem from="1760387868165" duration="14392000" />
++      <workItem from="1760464548349" duration="393000" />
++      <workItem from="1760465880895" duration="994000" />
++      <workItem from="1760473182619" duration="104000" />
++      <workItem from="1760473333288" duration="247000" />
++      <workItem from="1761319592805" duration="7000" />
+     </task>
+     <task id="LOCAL-00001" summary="Latest commit per 13.10.25">
+       <option name="closed" value="true" />
+@@ -129,7 +136,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1760464132675</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="Latest update commit, 14.10.25; 19:57">
++      <option name="closed" value="true" />
++      <created>1760464688415</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1760464688415</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -142,6 +157,7 @@
+     <MESSAGE value="Latest commit, 14.10.25;" />
+     <MESSAGE value="Latest commit, 14.10.25; 19:45" />
+     <MESSAGE value="Latest readme update commit, 14.10.25; 19:48" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Latest readme update commit, 14.10.25; 19:48" />
++    <MESSAGE value="Latest update commit, 14.10.25; 19:57" />
++    <option name="LAST_COMMIT_MESSAGE" value="Latest update commit, 14.10.25; 19:57" />
+   </component>
+ </project>
+\ No newline at end of file
