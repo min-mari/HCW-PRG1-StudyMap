@@ -1,4 +1,4 @@
-package example_tasks;
+package example_tasks.Midterm1;
 /**
  * ÜBUNG 5 — Der Zahlenraten-Meister
  *

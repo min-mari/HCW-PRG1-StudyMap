@@ -13,7 +13,7 @@
 //  - Integer-Range wie in der Angabe gefordert.
 // -----------------------------------------------------------
 
-package example_tasks;
+package example_tasks.Midterm1;
 import java.util.Random;
 import java.util.Scanner;
 

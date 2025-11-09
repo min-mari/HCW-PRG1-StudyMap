@@ -1,4 +1,4 @@
-package example_tasks;
+package example_tasks.Midterm1;
 
 /*
 Aufgabe 2 (PDF C): Zehnerpotenz (5 Classroom Punkte)

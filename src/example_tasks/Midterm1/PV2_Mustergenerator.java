@@ -1,4 +1,4 @@
-package example_tasks;
+package example_tasks.Midterm1;
 
 /**
  * ÜBUNG 2 — Mustergenerator (Rechteckmuster aus abwechselnden Zeichen)

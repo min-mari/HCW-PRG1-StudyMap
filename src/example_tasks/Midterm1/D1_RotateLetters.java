@@ -1,4 +1,4 @@
-package example_tasks;
+package example_tasks.Midterm1;
 
 /*
 Aufgabe 1 (PDF D): Buchstabendreher (4 Classroom Punkte)

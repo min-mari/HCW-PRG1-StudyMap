@@ -1,4 +1,4 @@
-package example_tasks;
+package example_tasks.Midterm1;
 
 /**
  * AUFGABENSTELLUNG (Midterm 2020 D – Task 1)

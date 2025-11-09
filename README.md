@@ -34,53 +34,90 @@ Everything is written in plain **Java 21**, with heavy commenting for self-study
 
 ```text
 src/
- ├── example_tasks/                 # My elaborated Midterm + Übungs examples
- │    ├── A1_RandomMonth.java
- │    ├── A1_ZipCodeChecker.java
- │    ├── A2_CheatSheet.java
- │    ├── A2_MonthMapper.java
- │    ├── B1_CompareDoubles.java
- │    ├── C1_CashRegister.java
- │    ├── C2_PowerOfTen.java
- │    ├── D1_LengthAndUnitConverter.java
- │    ├── D1_RotateLetters.java
- │    ├── D2_IncomeStatistics.java
- │    ├── D2_SumUp.java
- │    ├── PV1_VersandkostenKalkulator.java
- │    ├── PV2_Mustergenerator.java
- │    ├── PV3_GuessingGame.java
- │    ├── RND1_CompareDoubles.java
- │    ├── RND2_MagicSquare.java
- │    ├── RND3_Encrypt.java
- │    ├── RND4_DiscountCalculator.java
- │    └── RND5_FloatCompareExample.java
+ ├── example_tasks/                         # My elaborated Midterm + Übungs examples
+ │    ├── Midterm1/
+ │    │    ├── A1_RandomMonth.java
+ │    │    ├── A1_ZipCodeChecker.java
+ │    │    ├── A2_CheatSheet.java
+ │    │    ├── A2_MonthMapper.java
+ │    │    ├── B1_CompareDoubles.java
+ │    │    ├── C1_CashRegister.java
+ │    │    ├── C2_PowerOfTen.java
+ │    │    ├── D1_LengthAndUnitConverter.java
+ │    │    ├── D1_RotateLetters.java
+ │    │    ├── D2_IncomeStatistics.java
+ │    │    ├── D2_SumUp.java
+ │    │    ├── PV1_VersandkostenKalkulator.java
+ │    │    ├── PV2_Mustergenerator.java
+ │    │    ├── PV3_GuessingGame.java
+ │    │    ├── RND1_CompareDoubles.java
+ │    │    ├── RND2_MagicSquare.java
+ │    │    ├── RND3_Encrypt.java
+ │    │    ├── RND4_DiscountCalculator.java
+ │    │    └── RND5_FloatCompareExample.java
+ │    │
+ │    └── Midterm2/
+ │         ├── cardgame/
+ │         │    ├── Card.java
+ │         │    ├── CardGameApp.java
+ │         │    ├── Game.java
+ │         │    └── Player.java
+ │         │
+ │         ├── mytunes/
+ │         │    ├── Music.java
+ │         │    ├── MusicApp.java
+ │         │    └── MyTunes.java
+ │         │
+ │         ├── shoppingcart/
+ │         │    ├── Cart.java
+ │         │    ├── Product.java
+ │         │    └── ShoppingApp.java
+ │         │
+ │         └── storynode/
+ │              ├── AdventureGame.java
+ │              ├── Item.java
+ │              └── StoryNode.java
  │
- ├── datatypes_operators_controlstructures/   # Material rewritten from official slides
- │    ├── d1_MinOfThree.java
- │    ├── d2_SafeDivide.java
- │    ├── d3_SignClassifier.java
- │    ├── d4_TinyCalculatorSwitch.java
- │    ├── d5_StringEqualsDemo.java
- │    └── d6_EvenOdd_Modulo.java
+ ├── folien/
+ │    ├── datatypes_operators_controlstructures/
+ │    │    ├── d1_MinOfThree.java
+ │    │    ├── d2_SafeDivide.java
+ │    │    ├── d3_SignClassifier.java
+ │    │    ├── d4_TinyCalculatorSwitch.java
+ │    │    ├── d5_StringEqualsDemo.java
+ │    │    └── d6_EvenOdd_Modulo.java
+ │    │
+ │    ├── intro/
+ │    │    └── i1_ScannerPrint.java
+ │    │
+ │    ├── loops/
+ │    │    ├── l1_Countdown.java
+ │    │    ├── l2_FactorialCalculator.java
+ │    │    ├── l3_PasswordRetry.java
+ │    │    ├── l4_ReversedStairs.java
+ │    │    ├── l5_CountDigits.java
+ │    │    └── l6_SumUntilMinusOne.java
+ │    │
+ │    ├── methods/
+ │    │    ├── m1_PrintUntilNumber.java
+ │    │    ├── m2_SumOfNumbers.java
+ │    │    ├── m3_IsEvenDemo.java
+ │    │    └── m4_CoimposeMethods.java
+ │    │
+ │    └── oop1/
+ │         ├── cats/
+ │         │    ├── Cat.java
+ │         │    └── CatApp.java
+ │         │
+ │         ├── cars/
+ │         │    ├── Car.java
+ │         │    └── CarApp.java
+ │         │
+ │         └── students/
+ │              ├── Student.java
+ │              └── StudentApp.java
  │
- ├── intro/
- │    └── i1_ScannerPrint.java
- │
- ├── loops/
- │    ├── l1_Countdown.java
- │    ├── l2_FactorialCalculator.java
- │    ├── l3_PasswordRetry.java
- │    ├── l4_ReversedStairs.java
- │    ├── l5_CountDigits.java
- │    └── l6_SumUntilMinusOne.java
- │
- ├── methods/
- │    ├── m1_PrintUntilNumber.java
- │    ├── m2_SumOfNumbers.java
- │    ├── m3_IsEvenDemo.java
- │    └── m4_CoimposeMethods.java
- │
- ├── homeworks/                             # Homework sets (Exercises 01 / 02 / 03 / 04 / 05)
+ ├── homeworks/                             # Homework sets (Exercises 01–05)
  │    ├── hm1/
  │    │    └── Exercises01.java
  │    ├── hm2/
@@ -88,14 +125,14 @@ src/
  │    ├── hm3/
  │    │    └── Exercises03.java
  │    ├── hm4/
- │    │    ├── Task4.java
  │    │    ├── App.java
  │    │    ├── Car.java
+ │    │    ├── ParkingGarage.java
  │    │    ├── ParkingSpot.java
- │    │    └── ParkingGarage.java
+ │    │    └── Task4.java
  │    └── hm5/
- │         ├── Task5.java
  │         ├── Player.java
+ │         ├── Task5.java
  │         └── TicTacToe.java
  │
  └── skeletons/                             # Utility snippets and reusable blueprints
@@ -105,6 +142,7 @@ src/
       ├── OOP1Skel.java
       ├── QuickReferenceGuide
       └── StudyMap.java
+
 ```
 ## 💡 Topics Covered
 
