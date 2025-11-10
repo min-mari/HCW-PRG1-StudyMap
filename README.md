@@ -36,25 +36,27 @@ Everything is written in plain **Java 21**, with heavy commenting for self-study
 src/
  ├── example_tasks/                         # My elaborated Midterm + Übungs examples
  │    ├── Midterm1/
- │    │    ├── A1_RandomMonth.java
- │    │    ├── A1_ZipCodeChecker.java
- │    │    ├── A2_CheatSheet.java
- │    │    ├── A2_MonthMapper.java
- │    │    ├── B1_CompareDoubles.java
- │    │    ├── C1_CashRegister.java
- │    │    ├── C2_PowerOfTen.java
- │    │    ├── D1_LengthAndUnitConverter.java
- │    │    ├── D1_RotateLetters.java
- │    │    ├── D2_IncomeStatistics.java
- │    │    ├── D2_SumUp.java
- │    │    ├── PV1_VersandkostenKalkulator.java
- │    │    ├── PV2_Mustergenerator.java
- │    │    ├── PV3_GuessingGame.java
- │    │    ├── RND1_CompareDoubles.java
- │    │    ├── RND2_MagicSquare.java
- │    │    ├── RND3_Encrypt.java
- │    │    ├── RND4_DiscountCalculator.java
- │    │    └── RND5_FloatCompareExample.java
+ │    │    └── actualexam1b/
+ │    │         ├── App.java
+ │    │         ├── A1_RandomMonth.java
+ │    │         ├── A1_ZipCodeChecker.java
+ │    │         ├── A2_CheatSheet.java
+ │    │         ├── A2_MonthMapper.java
+ │    │         ├── B1_CompareDoubles.java
+ │    │         ├── C1_CashRegister.java
+ │    │         ├── C2_PowerOfTen.java
+ │    │         ├── D1_LengthAndUnitConverter.java
+ │    │         ├── D1_RotateLetters.java
+ │    │         ├── D2_IncomeStatistics.java
+ │    │         ├── D2_SumUp.java
+ │    │         ├── PV1_VersandkostenKalkulator.java
+ │    │         ├── PV2_Mustergenerator.java
+ │    │         ├── PV3_GuessingGame.java
+ │    │         ├── RND1_CompareDoubles.java
+ │    │         ├── RND2_MagicSquare.java
+ │    │         ├── RND3_Encrypt.java
+ │    │         ├── RND4_DiscountCalculator.java
+ │    │         └── RND5_FloatCompareExample.java
  │    │
  │    └── Midterm2/
  │         ├── cardgame/
@@ -136,12 +138,23 @@ src/
  │         └── TicTacToe.java
  │
  └── skeletons/                             # Utility snippets and reusable blueprints
-      ├── CherryPicksAndTricks.java
-      ├── CherryPicksGeneral.java
-      ├── CherryPicksAbridged.java
-      ├── OOP1Skel.java
-      ├── QuickReferenceGuide
-      └── StudyMap.java
+      ├── general/
+      │    ├── CherryPicksAndTricks.java
+      │    ├── CherryPicksGeneral.java
+      │    ├── CherryPicksAbridged.java
+      │    ├── QuickReferenceGuide
+      │    └── StudyMap.java
+      │
+      └── oop/
+           ├── OOP1SkelSimple.java
+           ├── Sk_0_ReferenceMap.java
+           ├── Sk_A_Entity.java
+           ├── Sk_B_ArrayManager.java
+           ├── Sk_C_SlotAndSlotManager.java
+           ├── Sk_D_StaticTrackedEntity.java
+           ├── Sk_E_CliMenuApp.java
+           ├── Sk_F_GridGame.java
+           └── Sk_G_StoryNodeAndController.java
 
 ```
 ## 💡 Topics Covered

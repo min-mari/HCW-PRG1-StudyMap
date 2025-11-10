@@ -1,4 +1,4 @@
-package skeletons;
+package skeletons.oop;
 
 /*
 ===============================================
@@ -19,7 +19,7 @@ die mehrere Klassen, Beziehungen und Methoden verlangen.
 ===============================================
 */
 
-public class OOP1Skel
+public class OOP1SkelSimple
 {
     /*
     ======================================================

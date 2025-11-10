@@ -1,4 +1,4 @@
-package skeletons;
+package skeletons.general;
 
 /**
  * HCW – PROGRAMMIEREN 1 (MIDTERM 1)
@@ -17,9 +17,6 @@ package skeletons;
  * - https://www.w3schools.com/java/
  * - https://docs.oracle.com/javase/
  */
-
-import java.util.Scanner;
-import java.util.Random;
 
 public class StudyMap {
 

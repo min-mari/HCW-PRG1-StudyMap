@@ -1,4 +1,4 @@
-package skeletons;
+package skeletons.general;
 import java.util.*;
 
 public class CherryPicsAbridged

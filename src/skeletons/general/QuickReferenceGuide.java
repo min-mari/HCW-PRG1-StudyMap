@@ -1,4 +1,4 @@
-package skeletons;
+package skeletons.general;
 
 public class QuickReferenceGuide
 {

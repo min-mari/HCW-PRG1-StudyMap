@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Latest readme update commit, 14.10.25; 19:48">
+    <list default="true" id="7ab20773-28e2-42c9-9f0b-69afedbeb663" name="Changes" comment="Addition of Midterm1 Task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/CherryPicksAndTricks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/general/CherryPicksAndTricks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/CherryPicksGeneral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/general/CherryPicksGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/CherryPicsAbridged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/general/CherryPicsAbridged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/OOP1Skel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/oop/OOP1SkelSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/QuickReferenceGuide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/general/QuickReferenceGuide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/skeletons/StudyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/skeletons/general/StudyMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +41,9 @@
     &quot;accountId&quot;: &quot;74d84117-b769-49e3-9413-5cbaa432fe1b&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,6 +56,7 @@
   "keyToString": {
     "Application.RND1_CompareDoubles.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -54,15 +65,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -76,6 +87,12 @@
       <workItem from="1760384652766" duration="1766000" />
       <workItem from="1760387868165" duration="14392000" />
       <workItem from="1762716083732" duration="835000" />
+      <workItem from="1762716928804" duration="189000" />
+      <workItem from="1762717133516" duration="88000" />
+      <workItem from="1762717288698" duration="8000" />
+      <workItem from="1762717313828" duration="81000" />
+      <workItem from="1762717410954" duration="90000" />
+      <workItem from="1762791671405" duration="13191000" />
     </task>
     <task id="LOCAL-00001" summary="Latest commit per 13.10.25">
       <option name="closed" value="true" />
@@ -133,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760464132675</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Addition of Midterm1 Task">
+      <option name="closed" value="true" />
+      <created>1762717006777</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762717006777</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +171,11 @@
     <MESSAGE value="Latest commit, 14.10.25;" />
     <MESSAGE value="Latest commit, 14.10.25; 19:45" />
     <MESSAGE value="Latest readme update commit, 14.10.25; 19:48" />
-    <option name="LAST_COMMIT_MESSAGE" value="Latest readme update commit, 14.10.25; 19:48" />
+    <MESSAGE value="Addition of Midterm1 Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition of Midterm1 Task" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
